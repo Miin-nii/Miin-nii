@@ -14,7 +14,10 @@
 <br/>  
 
 ## Github Stats
-<table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=miin-nii&show_icons=true&theme=nord&hide_border=true" />   
+
+<!-- <table>
   <thead>
     <tr>
       <th>
@@ -25,6 +28,6 @@
       </th>
     </tr>
   </thead>
-</table>
+</table> -->
 
 
