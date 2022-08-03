@@ -2,7 +2,7 @@
 
 <br/>  
 
-## My Skill Set 💻 
+## My Skill Set
 
 <section>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -13,7 +13,7 @@
 
 <br/>  
 
-## Github Stats 💫
+## Github Stats
 <table>
   <thead>
     <tr>
