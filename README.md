@@ -8,7 +8,7 @@
     <tr>
       <th>
           <a href="https://github.com/miin-nii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miin-nii&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=miin-nii&show_icons=true&theme=true" />
   </a>
       </th>
       <th>
