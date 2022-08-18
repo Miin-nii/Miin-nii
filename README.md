@@ -13,7 +13,7 @@
 
 <br/>  
 
-## Github Stats
+## Github Status
 
 <img src="https://github-readme-stats.vercel.app/api?username=miin-nii&show_icons=true&theme=nord&hide_border=true" />   
 
